@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "196398424957",
+    "project_id": "crsproject-5fecf",
+    "storage_bucket": "crsproject-5fecf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196398424957:android:ee44b5a68ce18a1dafa214",
+        "android_client_info": {
+          "package_name": "com.example.android1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOnRieaMi0u2LXJ5e34lUDgELlHgPe1pA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
